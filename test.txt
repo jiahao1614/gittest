@@ -5,3 +5,4 @@
 555
 666
 777 & feature1
+777 and feature1
